@@ -11,7 +11,7 @@ A simple yet effective To-Do List Application built with HTML, CSS, and JavaScri
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Chandru305/todo-list.git
+    git clone https://github.com/Hemanth GowdaV/todolist.git
     ```
 
 2. Navigate to the project directory:
@@ -36,5 +36,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact [chandru80815@example.com](mailto:chandru80815@example.com).
+For any inquiries, please contact [hemanthappu1209@example.com](mailto: hemanthappu1209@example.com).
 
